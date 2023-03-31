@@ -1,0 +1,13 @@
+1
+Te despiertas y te das cuenta que tus amigos humanos no 
+estan en casa. 
+Pasan las horas y nadie entra en casa.
+Empiezas a tener hambre y te sientes solo.
+Decides que tienes que hacer algo...
+Tambien observas que hay una nota en el suelo.
+
+@
+(A) - Coges la nota.
+(B) - Te vuelves a dormir
+(C) - Buscas comida.
+(D) - Decides explorar fuera de la jaula.

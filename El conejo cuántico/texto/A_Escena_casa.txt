@@ -1,0 +1,12 @@
+1
+Coges la nota y la guardas.
+Ahora...
+
+[
+
+@
+
+(B) - Te vuelves a dormir
+$(C) - Buscas comida.%
+(D) - Decides explorar fuera de la jaula.
++(E) - Comes%

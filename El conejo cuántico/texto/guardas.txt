@@ -1,0 +1,6 @@
+1
+@
+/(A) - Coges la nota.%
+(B) - Te vuelves a dormir
+(D) - Decides explorar fuera de la jaula.
++(E) - Comes%

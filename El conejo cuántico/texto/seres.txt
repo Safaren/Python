@@ -1,0 +1,15 @@
+3
+Esas criaturas te saludan como si te conocieran.
+Te das cuenta que ahora eres como ellos un humanoide alado.
+Y te preguntan cual es el número.
+
+>
+Te acuerdas que recogistes una nota.
+Lees la nota y hay pistas:
+- Es un número primo.
+- La suma de sus digitos es 10
+- Su reverso tambien es primo.
+- Ocupa la posición 21 en la lista de números primos.
+%
+<No tienes ninguna pista....%
+

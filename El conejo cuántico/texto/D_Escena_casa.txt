@@ -1,0 +1,15 @@
+2
+Decides explorar fuera de la jaula.
+Empujas la puerta de la jaula, y como siempre te la
+dejarón abierta.
+Derepente al salir de la jaula te encuentras en mundo extraño.
+Todo verde lleno de alimentos y agua.
+A lo lejos ves más conejos.
+Detras de ti hay unos seres que se estan acercando hacia ti.
+¿Qué decides hacer?
+
+@
+
+(A) - Vas hacia los conejos.
+(B) - Esperas a esas criaturas.
++(E) - Comes%
