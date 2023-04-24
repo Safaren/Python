@@ -1,13 +1,3 @@
-# --Todo--
-# Crear pagina de inicio
-# Crear pagina de aviso si quieres una nuva partida
-# Crear pagina con las veces ganadas por la compu y el jugador
-# Poder crear un nombre de jugador
-# Poder jugar con otros online
-# Crear música de inicio
-# Crear sonido al rellenar x e y distintos
-# Poder elegir x o y
-# Crear pagina de creditos.
 import PySimpleGUI as sg
 import math
 import time
